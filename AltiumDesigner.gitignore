@@ -1,0 +1,47 @@
+#PCB history files
+*.PcbDoc.Zip
+#Log files
+*.LOG
+#Preview schematic doc , preview directory, history directory
+*.$$$Preview
+*.SchDocPreviev
+__Previews/
+History/
+#CAMTastic aperture data
+*.apr
+#EXTREP file
+*.EXTREP
+#Report file, rep preview
+*.REP
+*.REPPreview
+#Aperture lib file
+*.APR_LIB
+#NC drill report file
+*.DRR
+#LDP file, ldp preview
+*.LDP
+*.LDPPreview
+#Gerber for 4 layer
+*.G1
+*.G2
+*.GBL
+*.GBO
+*.GBS
+*.GM1
+*.GTL
+*.GTO
+*.GTS
+#Gerber history
+*.G1.Zip
+*.G2.Zip
+*.GBL.Zip
+*.GBO.Zip
+*.GBS.Zip
+*.GM1.Zip
+*.GTL.Zip
+*.GTO.Zip
+*.GTS.Zip
+#Job history files
+*.OutJob.Zip
+#Drill format holes
+*.TXT
